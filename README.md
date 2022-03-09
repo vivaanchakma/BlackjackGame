@@ -1,2 +1,2 @@
-# BlackjackGame
+# Blackjack Game
 Blackjack Game
